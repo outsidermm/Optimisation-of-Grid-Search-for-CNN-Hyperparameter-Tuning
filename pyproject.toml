@@ -15,7 +15,7 @@ dependencies = [
 [project.optional-dependencies]
 tf = [
     "tensorflow>=2.21",
-    "keras>=3.14",
+    "keras>=3.15.1",
 ]
 full = [
     "heuristic-hpo[tf]",
